@@ -1,0 +1,11 @@
+# Carpetas y archivos del entorno de edición (no forman parte del proyecto)
+.zcode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales
+*.tmp
+*.log
