@@ -64,9 +64,10 @@ Navegadores modernos (Chrome/Edge 105+, Safari 16+, Firefox 110+), por el uso de
 ```
 .
 ├── index.html   # la aplicación completa (HTML + CSS + JS)
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ## Licencia
 
-Uso libre. Si publicas una versión modificada, se agradece la mención.
+MIT — puedes usar, modificar y distribuir el proyecto libremente.
