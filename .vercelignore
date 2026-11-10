@@ -1,0 +1,7 @@
+# No se sube al despliegue: sólo el sitio
+.zcode/
+.git/
+.gitignore
+README.md
+LICENSE
+*.md

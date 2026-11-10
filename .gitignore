@@ -9,3 +9,5 @@ desktop.ini
 # Temporales
 *.tmp
 *.log
+.vercel
+.env*
